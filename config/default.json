@@ -1,4 +1,5 @@
 {
-    "mongoURI": "mongodb+srv://khussell:Lilupharm3!@devconnector-nrcxr.mongodb.net/test?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://khussell:Lilupharm3!@devconnector-nrcxr.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSECRET": "mysecrettoken"
 
 }

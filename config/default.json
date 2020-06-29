@@ -1,5 +1,7 @@
 {
     "mongoURI": "mongodb+srv://khussell:Lilupharm3!@devconnector-nrcxr.mongodb.net/test?retryWrites=true&w=majority",
-    "jwtSECRET": "mysecrettoken"
+    "jwtSECRET": "mysecrettoken",
+    "githubClientId": "c6ed6b31bc6c16e4fcad",
+    "githubSecret": "5b0a8ef63f9de5d86f59bb2f9df1217cf06f7b70"
 
 }

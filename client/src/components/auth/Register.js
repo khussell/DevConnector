@@ -1,7 +1,10 @@
 import React, { Fragment, useState } from 'react'
+//useState is a hook
 import axios from 'axios';
 
 const Register = () => {
+    //array destructuring formData is set to the first thing returned by useState, and setFormData is the second thing
+    //so useState must return an array
     const [formData, setFormData] = useState({
         name: '',
         email: '',
